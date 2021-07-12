@@ -1,9 +1,11 @@
 // Hollow Radius of drifter
 hr = 10;
-// Outer diameter of bearing
-od = 50;
-// Inner diameter of bearing
-id = 46.75;
+// Fitment
+fit = 0.15;
+// Outer diameter of bearing - fitment
+od = 50 - fit;
+// Inner diameter of bearing - fitment
+id = 46.75 - fit;
 // Drifter back thickness;
 bt = 20;
 // Drifter front thickness;
