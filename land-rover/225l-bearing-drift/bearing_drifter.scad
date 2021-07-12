@@ -3,12 +3,11 @@ hr = 10;
 // Outer diameter of bearing
 od = 50;
 // Inner diameter of bearing
-id = 50 - 1.625 * 2;
+id = 46.75;
 // Drifter back thickness;
 bt = 20;
 // Drifter front thickness;
-ft = 25;
-
+ft = 20;
 
 // rotate_extrude() rotates a 2D shape around the Z axis. 
 // Note that the 2D shape must be either completely on the 
